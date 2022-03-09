@@ -7,7 +7,7 @@ _start:
     sub r6,r3,r2
     sub r1,r6,#1
     mov r6,#3
-    sub r5,r6,#7
+    subs r5,r6,#7
 
 
     mov r7, #1
